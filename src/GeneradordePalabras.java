@@ -5,7 +5,7 @@ public class GeneradordePalabras {
 	
 	private static String[] palabras = { "hola", "auto", "casa", 
 			"moto", "computadora", "celular", "mesa", "murcielago",
-			"perro", "gato"};
+			"perro", "gato","lobo","muerte","teclado","equipo"};
 
 	public static Palabra devolverPalabra() {
 
